@@ -1,4 +1,3 @@
-### Hi there 👋
 ![banner](./Documentation/MarkdownBanner.png)
 
 <!--
