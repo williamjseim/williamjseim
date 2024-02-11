@@ -1,5 +1,5 @@
 ### Hi there 👋
-![banner](Documentation/MarkdownBanner.png)
+[banner](Documentation/MarkdownBanner.png)
 
 <!--
 **williamjseim/williamjseim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
