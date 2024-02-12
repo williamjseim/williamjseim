@@ -1,8 +1,7 @@
 ![banner](./Documentation/MarkdownBanner.png)
 
 ### I like video games, exploits and especially video game exploits
-
-<span style="color:red;">### i hate emojis</span>
+$${\color{red}Red}$$### i hate emojis
 <!--
 **williamjseim/williamjseim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
