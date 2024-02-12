@@ -1,7 +1,7 @@
 ![banner](./Documentation/MarkdownBanner.png)
 
 ### I like video games, exploits and especially video game exploits
-$${\color{red}### i hate emojis}$$
+$${\color{red}i hate emojis}$$
 <!--
 **williamjseim/williamjseim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
