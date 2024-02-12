@@ -2,17 +2,19 @@
 
 ### I like video games, exploits and especially video game exploits
 ### I hate emojis
-<!--
-**williamjseim/williamjseim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Chili recipe
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 1kg of ground beef 
+* 6 to 10 cans of kidney beans
+* 4-6 cans of chopped tomatoes
+* 3-4 onions
+* 75 or 85 % dark chocolate
+* salt, pepper, 
+* garlic powder or normal garlic if you prefere
+
+Whiskey tullamore dew or what you prefere 
+Butter
+
+#### chili
+california reaper concrete souce
