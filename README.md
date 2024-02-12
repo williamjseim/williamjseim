@@ -1,5 +1,6 @@
 ![banner](./Documentation/MarkdownBanner.png)
 
+### I like video games, exploits and especially video game exploits
 <!--
 **williamjseim/williamjseim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
