@@ -17,7 +17,7 @@
 * Butter
 
 #### chili
-* california reaper concrete souce
+* california reaper souce
 
 * Start by finding a cooking pot big enough
 * then cut the onions
