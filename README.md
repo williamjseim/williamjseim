@@ -35,4 +35,3 @@
 * eat with rice, fries or bare
 
 ![watermark](https://github.com/williamjseim/williamjseim/blob/main/Documentation/MarkDownWatermark.png)
-Truth, Honor, Integrity 
